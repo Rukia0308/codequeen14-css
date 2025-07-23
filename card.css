@@ -1,0 +1,30 @@
+*{
+    margin:auto !important;
+}
+body{
+    background-color: rgb(28, 73, 112);
+}
+.mother{
+    background-color: rgb(168, 3, 105);
+    height: 300px; 
+    width: 200px;
+    padding: 50px;
+}
+.logo{
+    padding-left: 75px;
+}
+.photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: rgb(2, 115, 196) 5px solid;
+    box-shadow: 2px 3px rgb(0, 0, 28);
+}
+#slogan{
+    padding-bottom: 10px;
+}
+.company{
+    color: beige;
+    font-size: 20px;
+    font-family: monospace;
+}
